@@ -1,0 +1,9 @@
+#for this stack I changed all the q variables to the s variable,
+ to indicate stack and then i also to out the 0 being the pop because now
+  the last variable sould pop instead of the first variable. I am starting to kind of understand
+  how the format works. so beacuse i took out return s,pop(0) and I changed it into 
+  return s.pop() it should make sure that the stack doesn't become a queue if the first variable doesn't
+  leave and instead the last variable () leaves first. its still not simple but I'm hoping that
+  I can eventually understand the difference between similar code structures. so that I can eventually
+  start to do most of these code structures by myself and comprehend what differences and similarities are
+  in the cding that I am doing.
