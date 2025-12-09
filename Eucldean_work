@@ -1,4 +1,0 @@
-def euclidean_distance(x1, y1, x2, y2):
-distance = euclidean_distance(-3, -4, 3, 4)
-print(euclidean_distance(-3, -4, 3, 4)) 
-print (f"distance from (-3, -4) to (3, 4))
